@@ -1,0 +1,21 @@
+{
+  "name": "lambda-face",
+  "version": "0.0.1",
+  "description": "Client for Lambda Labs' face-detection API",
+  "main": "face.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ricardobeat/lambda-face.js"
+  },
+  "keywords": [
+    "face-detection",
+    "face",
+    "lambda",
+    "opencv"
+  ],
+  "author": "Ricardo Tomasi",
+  "license": "MIT"
+}
