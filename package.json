@@ -16,6 +16,6 @@
     "lambda",
     "opencv"
   ],
-  "author": "Ricardo Tomasi",
-  "license": "MIT"
+  "author": "Ricardo Tomasi <ricardobeat@gmail.com>",
+  "license": "MIT - http://ricardo.mit-license.org/"
 }
